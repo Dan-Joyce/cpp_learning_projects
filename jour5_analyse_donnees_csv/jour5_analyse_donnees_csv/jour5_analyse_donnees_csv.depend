@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1760619308 source:c:\users\favour donfack\cpp_learning_projects\semaine1_bases\jour5_analyse_donnees_csv\jour5_analyse_donnees_csv\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<cmath>
+	<windows.h>
+

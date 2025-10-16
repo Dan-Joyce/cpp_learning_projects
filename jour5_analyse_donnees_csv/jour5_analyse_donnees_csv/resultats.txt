@@ -1,0 +1,8 @@
+=== STATISTIQUES DES DONNEES CSV ===
+Nombre de valeurs : 25
+Somme = 234
+Moyenne = 9.36
+Minimum = 4
+Maximum = 15
+Variance = 7.9104
+Ecart-type = 2.81254
