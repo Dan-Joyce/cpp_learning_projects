@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1760623509 source:c:\users\favour donfack\cpp_learning_projects\semaine1_bases\jour6_analyse_animaux_ia\jour6_analyse_animaux_ia\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+	<cmath>
+	<windows.h>
+
